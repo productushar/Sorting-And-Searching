@@ -1,4 +1,4 @@
-#This Python program performs binary search on an array sorted in the ascending order
+#This python program performs binary search on an array sorted in the ascending order
 
 #L: Array sorted in ascending order
 #ele: Element to be searched for
