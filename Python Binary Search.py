@@ -1,5 +1,8 @@
 #This Python program performs binary search on an array sorted in the ascending order
 
+#L: Array sorted in ascending order
+#ele: Element to be searched for
+
 def binsearch(L,ele,low=0,high=0):
     if high==0:
         high=len(L)
