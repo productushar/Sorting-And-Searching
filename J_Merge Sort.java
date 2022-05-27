@@ -50,3 +50,4 @@ public class MergeSort {
          merge(nums, i, j, k);
       }
    }
+}
