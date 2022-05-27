@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class MergeSort {
    private static void merge(int[] nums, int i, int j, int k) {
       int mergeSize = k - i + 1;               
